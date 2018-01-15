@@ -1,4 +1,4 @@
-Download Afred workflow
+Download Alfred workflow
 ================================
 
 [Download](https://raw.github.com/aquastar/alfred-datetime-format-converter/blob/master/Datetime%20Format%20Converter.alfredworkflow?raw=true)
@@ -6,10 +6,10 @@ Download Afred workflow
 # Two uasge:
 
 ## Press "⌘（command）+ ⇪（shift）+ ；"
-When you input, press the combo key above, and current data and time will be automatically inserted
+When you input, press the combo key above, and current date and time will be automatically inserted
 Of course, you can modify output format or Hotkey as you like!
 
-## df now
+## Type "df now" in Alfred input
 [Alfred Forum Topic](http://www.alfredforum.com/topic/1558-datetime-format-converter-convert-between-unix-timestamps-and-datetime-strings/)
 
 ![Screenshot](https://raw.github.com/mwaterfall/alfred-datetime-format-converter/master/download/screenshot_1.png)
