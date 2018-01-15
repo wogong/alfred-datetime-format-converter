@@ -1,14 +1,14 @@
 alfred-datetime-format-converter
 ================================
 
-Alfred 2 workflow for converting between timestamps and formatted datetime strings with ease.
+[Download](https://raw.github.com/aquastar/alfred-datetime-format-converter/blob/master/Datetime%20Format%20Converter.alfredworkflow?raw=true)
 
-Simply type "df" followed by: "now", a UTC unix timestamp, or a formatted datetime string.
+# Two uasge:
 
-This will present you with the parsed date in various formats ready to copy to your clipboard.
+## ⌘（command）+ ⇪（shift）+ ；
+When you input, press the combo key above, and current data and time will be automatically inserted
 
-[Download](https://raw.github.com/mwaterfall/alfred-datetime-format-converter/master/download/DatetimeFormatConverter.alfredworkflow)
-
+## df now
 [Alfred Forum Topic](http://www.alfredforum.com/topic/1558-datetime-format-converter-convert-between-unix-timestamps-and-datetime-strings/)
 
 ![Screenshot](https://raw.github.com/mwaterfall/alfred-datetime-format-converter/master/download/screenshot_1.png)
