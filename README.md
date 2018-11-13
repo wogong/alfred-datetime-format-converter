@@ -1,7 +1,7 @@
 Download Alfred workflow
 ================================
 
-[Download](https://raw.github.com/aquastar/alfred-datetime-format-converter/blob/master/Datetime%20Format%20Converter.alfredworkflow?raw=true)
+[Download](https://raw.githubusercontent.com/aquastar/alfred-datetime-format-converter/master/Datetime%20Format%20Converter.alfredworkflow)
 
 # Two uasge:
 
